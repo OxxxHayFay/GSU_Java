@@ -1,0 +1,7 @@
+Harper_Lee To_Kill_a_Mockingbird 212 Whole 16
+J.K.Rowling Harry_Potter 564 Whole 31
+Jane_Austen Pride_and_Prejudice 355 Half 21
+Markus_Zusak The_Book_Thief 531 Whole 49
+Stephenie_Meyer Twilight 345 Half 31
+Stiven_King Confrontation 1024 Half 102
+Suzanne_Collins The_Hunger_Games 399 Half 22
